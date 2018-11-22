@@ -1,0 +1,27 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    coffee-script (2.4.1)
+      coffee-script-source
+      execjs
+    coffee-script-source (1.12.2)
+    execjs (2.7.0)
+    ffi (1.9.25)
+    rb-fsevent (0.10.3)
+    rb-inotify (0.9.10)
+      ffi (>= 0.5.0, < 2)
+    sass (3.7.2)
+      sass-listen (~> 4.0.0)
+    sass-listen (4.0.0)
+      rb-fsevent (~> 0.9, >= 0.9.4)
+      rb-inotify (~> 0.9, >= 0.9.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  coffee-script
+  sass
+
+BUNDLED WITH
+   1.16.2
