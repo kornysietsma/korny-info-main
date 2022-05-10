@@ -137,7 +137,7 @@ body {
 #home {
   font: 16px 'Cantarell', arial, helvetica, sans-serif; }
   #home > header {
-    background: url("http://www.gravatar.com/avatar/d86508251e48b986057d34bf9ae3b6b3.jpg") no-repeat left center;
+    background: url("https://www.gravatar.com/avatar/d86508251e48b986057d34bf9ae3b6b3.jpg") no-repeat left center;
     text-align: center;
     padding-bottom: 24px; }
     #home > header h1 {
