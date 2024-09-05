@@ -1,0 +1,15 @@
+main:
+  - title: "Working with me"
+    url: /work/
+    description: How I like to work
+  - title: "Minecraft for Parents"
+    url: /minecraft_for_parents/
+
+buzzard_kids:
+  - title: "Buzzard Kids intro for parents"
+    url: /buzzard_kids_intro/
+  - title: "Buzzard Kids information"
+    url: /buzzard_kids/
+  - title: "Minecraft for Parents"
+    url: /minecraft_for_parents/
+

@@ -1,0 +1,138 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Korny dot Info
+subtitle: My little corner of the internet
+email: korny@sietsma.com
+url: https://korny.info
+description: >- # this means to ignore newlines until "baseurl:"
+  Korny Sietsma's personal site
+linkedin_username: korny
+github_username: kornysietsma
+mastodon:
+  - username: korny
+  - instance: hachyderm.io
+repository: "kornysietsma/korny-info-main"
+minimal_mistakes_skin: mint
+search: false
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Note permalink only works for posts not pages
+permalink: /:title/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+timezone: Europe/London # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  # - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "Korny Sietsma"
+  avatar : "/assets/images/bio-photo.png"
+  bio    : "Coder, parent, Aussie moved to the UK, geek."
+  location: "Leighton Buzzard, UK"
+  links:
+    - label: "My blog"
+      icon: "fas fa-fw fa-link"
+      url: "https://blog.korny.info"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kornysietsma"
+    - label: "Email"
+      icon: "fa-solid fa-envelope"
+      url: "mailto:korny@sietsma.com"
+    - label: "Mastodon"
+      icon: "fa-brands fa-mastodon"
+      url: "https://hachyderm.io/@Korny"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://linkedin.com/in/korny"
+    - label: "BlueSky"
+      url: "https://bsky.app/profile/korny.bsky.social"
+      icon: "fa-brands fa-bluesky"
+    - label: "Facebook"
+      icon: "fa-brands fa-facebook"
+      url: "https://www.facebook.com/korny"
+    - label: "Instagram"
+      icon: "fa-brands fa-instagram"
+      url: "https://www.instagram.com/kornysietsma/"
+    - label: "Threads"
+      url: "https://www.threads.net/@kornysietsma"
+      icon: "fa-brands fa-threads"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
+
+defaults:
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      # permalink doesn't work here, needs to be in every page
+      # permalink: /:basename/
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+

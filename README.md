@@ -1,3 +1,4 @@
-# the main korny.info website
+# Korny's Info Site as of 2024
 
-My very minimal site - now using [simple.css](https://simplecss.org) for very basic styling.
+Now based on Minimal Mistakes using the template at <https://github.com/mmistakes/mm-github-pages-starter>
+
