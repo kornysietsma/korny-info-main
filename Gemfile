@@ -1,5 +1,9 @@
 source "https://rubygems.org"
 
+# Fix for OpenSSL 3.6.0 CRL checking issue on macOS
+# See: https://github.com/ruby/openssl/issues/949
+gem "openssl", "~> 3.1.2"
+
 gem "github-pages", group: :jekyll_plugins
 
 gem "tzinfo-data"

@@ -384,4 +384,108 @@ You wake up as Link after a 100-year sleep to find the kingdom of Hyrule in ruin
 
 ---
 
+### Splatoon 3
+
+![Colourful Turf War battle with ink everywhere](/assets/images/family-video-games/splatoon-3-1.jpg)
+
+Two teams of four splat ink everywhere using paint guns, rollers, and brushes - whoever covers more ground wins! You play as a squid kid who can transform into a squid to swim through your team's ink, refill your tank, and zoom around the map. There's also a full single-player campaign with puzzles and boss fights, plus Salmon Run where you team up against waves of weird salmon monsters.
+
+![Salmon Run co-op mode fighting salmon enemies](/assets/images/family-video-games/splatoon-3-2.jpg)
+
+- **Genre:** Team shooter - cover territory with ink, no blood or violence
+- **Price:** £49.99 on Nintendo eShop (rarely discounts - lowest ever was £39.99)
+- **For a 9yo:** Great - fast, colourful, and satisfying. The single-player Hero Mode teaches you the controls before going online. Online matches can get competitive but matchmaking keeps things fair. Reading is minimal (silly puns and short tutorials).
+- **For a 5yo:** Too tricky - needs quick reactions and dual-stick aiming that most 5-year-olds haven't developed yet. Could enjoy watching an older sibling play, but independent play isn't realistic.
+- **Co-op:** No split-screen! Each player needs their own Switch and copy of the game. Online multiplayer only (requires Nintendo Switch Online subscription).
+
+**Good stuff:**
+- The most polished "shooter" that's actually appropriate for kids - PEGI 7
+- Salmon Run co-op mode is brilliant chaotic fun
+- Looks stunning on Switch 2 (4K/60fps docked)
+- Loads of content including the Side Order roguelite DLC
+
+**Watch out for:**
+- Requires Nintendo Switch Online subscription for multiplayer (the main point)
+- No local co-op at all - frustrating for families with one Switch
+- Full price and rarely discounts
+
+---
+
+### Dorfromantik
+
+![Peaceful village landscape made of hexagonal tiles](/assets/images/family-video-games/dorfromantik-1.webp)
+
+You draw hexagonal tiles from a stack and place them to build an ever-growing countryside of villages, forests, rivers, and fields. Match edges well (forest next to forest, river next to river) to score points. Complete quests like "build a forest with 50 trees" to earn more tiles and keep playing longer. It's like the board game Carcassonne but as a peaceful, meditative single-player experience.
+
+![A sprawling landscape with trains, windmills and winding rivers](/assets/images/family-video-games/dorfromantik-2.webp)
+
+- **Genre:** Relaxing tile-placement puzzle - build pretty landscapes, no pressure
+- **Price:** £12.99 on Nintendo eShop (currently £9.74 on sale until Jan 11 - lowest ever!)
+- **For a 9yo:** Perfect - intuitive and satisfying. You can play casually to build pretty scenes or chase high scores. Sessions are 15-45 minutes. Creative mode has no way to lose.
+- **For a 5yo:** Good - PEGI 3 rated. Very simple controls (place and rotate tiles). Can enjoy building pretty countryside without worrying about scoring. May need help understanding quest objectives but can absolutely enjoy the core loop.
+- **Co-op:** Solo only
+
+**Good stuff:**
+- Genuinely calming - described as "sunshine on the screen"
+- Multiple modes: creative (no pressure), classic (score-chasing), monthly challenges
+- Perfect for short sessions or longer relaxation
+- Great value especially on sale
+
+**Watch out for:**
+- Very low-key - if you want action or excitement, look elsewhere
+- Can feel repetitive after many hours (but by then you've got your money's worth)
+
+---
+
+### GRIS
+
+![Gris meets a giant statue in a soft watercolour world](/assets/images/family-video-games/gris-1.jpg)
+
+You play as a girl named Gris exploring a beautiful watercolour world that's lost all its colour. As you journey through, you unlock new abilities - your dress can turn into a heavy block to smash through obstacles, let you glide through the air, or help you swim underwater. There's no text, no enemies trying to hurt you, and no way to die. It's more like playing through a moving painting than a traditional game.
+
+![Gliding through the red desert landscape](/assets/images/family-video-games/gris-2.jpg)
+
+- **Genre:** Artistic platformer - explore, solve gentle puzzles, and restore colour to the world
+- **Price:** £14.49 on Nintendo eShop (currently £2.49 on sale until Dec 31 - historic low!)
+- **For a 9yo:** Perfect - no reading needed at all, simple controls, and puzzles that are satisfying but never frustrating. The emotional story about dealing with sadness is told through visuals and music, so you can appreciate it at your own level.
+- **For a 5yo:** Good - no danger, no death, and simple platforming. The beautiful colours and magical transformations are captivating. Some puzzles might need a hint, but the whole game is designed to be welcoming.
+- **Co-op:** Solo only
+
+**Good stuff:**
+- One of the most beautiful games ever made - every frame looks like art
+- Short and sweet at 3-4 hours, perfect length for a meaningful experience
+- The soundtrack is gorgeous and responds to what you're doing
+
+**Watch out for:**
+- Very simple gameplay - if you want challenge or action, this isn't it
+- The emotional themes about grief might prompt questions (but they're handled gently)
+
+---
+
+### Old Man's Journey
+
+![The old man walking through rolling sun-drenched hills](/assets/images/family-video-games/old-mans-journey-1.jpg)
+
+An old man receives a letter and sets off on a journey across beautiful countryside. You help him travel by dragging hills up and down to create paths - line up two hillsides and he can walk from one to the other. As you go, wordless flashbacks show memories from his life. It's more like an interactive picture book than a puzzle game.
+
+![Walking through a colourful hillside village](/assets/images/family-video-games/old-mans-journey-2.jpg)
+
+- **Genre:** Puzzle adventure - drag landscapes to make paths, watch the story unfold
+- **Price:** £9.99 on Nintendo eShop (currently £1.99 on sale until Jan 12 - 80% off!)
+- **For a 9yo:** Perfect - very simple controls, no text to read, and the puzzles are gentle. The story about life, family, and memories might not hit as hard as it does for adults, but the beautiful art and relaxing gameplay still shine.
+- **For a 5yo:** Good - incredibly simple (just drag hills), no way to fail, no reading needed. The flashback scenes are pretty to watch even if the emotional meaning goes over their head.
+- **Co-op:** Solo only (technically supports 2 players but it's really a solo experience)
+
+**Good stuff:**
+- Absolutely gorgeous hand-painted art - every scene looks like a picture book
+- Very short (1-2 hours) so perfect for a quiet afternoon
+- No stress, no fail states, completely relaxing
+- Bargain at current sale price
+
+**Watch out for:**
+- Very little "game" here - if you want challenge or action, look elsewhere
+- Brief flashback images of drinking and smoking (not interactive, just story scenes)
+
+---
+
 *Page last updated: December 2025*
