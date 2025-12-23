@@ -8,6 +8,29 @@ toc: true
 
 A private overview of video games, mostly for the Nintendo Switch 2, for family sharing.
 
+## Quick Reference
+
+| Game | Genre & Description | Price |
+|------|---------------------|-------|
+| [Animal Crossing: New Horizons](#animal-crossing-new-horizons) | Life simulation - relaxing, creative, no pressure | £49.99 (often £33 on sale) |
+| [Blanc](#blanc) | Co-op puzzle adventure - work together, no combat | £13.49 (**£6.74 on sale**) |
+| [Celeste](#celeste) | Precision platformer - jump, dash, climb, die, try again | £17.99 (**£4.49 on sale**) |
+| [Cocoon](#cocoon) | Puzzle adventure - explore worlds within worlds | £20.99 (**£10.49 on sale**) |
+| [Donkey Kong Bananza](#donkey-kong-bananza) | 3D platformer - smash, dig, and explore | £58.99 |
+| [Dorfromantik](#dorfromantik) | Relaxing tile-placement puzzle - build landscapes | £12.99 (**£9.74 on sale**) |
+| [GRIS](#gris) | Artistic platformer - restore colour to the world | £14.49 (**£2.49 on sale**) |
+| [Hollow Knight: Silksong](#hollow-knight-silksong) | Metroidvania action-platformer - explore, fight, discover | £16.75 (**£13.40 on sale**) |
+| [Into the Breach](#into-the-breach) | Turn-based tactics puzzle - like chess with giant robots | £11.39 (**£3.41 on sale**) |
+| [The Legend of Zelda: Breath of the Wild](#the-legend-of-zelda-breath-of-the-wild) | Open-world action-adventure - explore anywhere | £59.99 (rarely discounts) |
+| [Lil Gator Game](#lil-gator-game) | Cozy exploration adventure - climb, glide, play pretend | £16.75 (often £8-10 on sale) |
+| [Luigi's Mansion 3](#luigis-mansion-3) | Action-adventure ghost hunting - explore, puzzle, catch ghosts | £49.99 (rarely discounts) |
+| [Old Man's Journey](#old-mans-journey) | Puzzle adventure - drag landscapes, watch memories unfold | £9.99 (**£1.99 on sale**) |
+| [Outer Wilds](#outer-wilds) | Exploration mystery - fly, explore, solve cosmic mysteries | £20.99 (**£12.59 on sale**) |
+| [Splatoon 3](#splatoon-3) | Team shooter - cover territory with ink | £49.99 (rarely discounts) |
+| [Tetris Effect: Connected](#tetris-effect-connected) | Puzzle rhythm game - Tetris with music and visuals | £35.99 (**£17.99 on sale**) |
+| [Tunic](#tunic) | Action-adventure - Zelda-like with cryptic secrets | £25.19 (**£12.59 on sale**) |
+| [Two Point Museum](#two-point-museum) | Management simulation - build and run museums | £24.99 (**£19.99 on sale**) |
+
 ## Games
 
 ### Animal Crossing: New Horizons
@@ -147,6 +170,57 @@ Donkey Kong and teenage Pauline head underground to explore the planet's core. T
 
 ---
 
+### Dorfromantik
+
+![Peaceful village landscape made of hexagonal tiles](/assets/images/family-video-games/dorfromantik-1.webp)
+
+You draw hexagonal tiles from a stack and place them to build an ever-growing countryside of villages, forests, rivers, and fields. Match edges well (forest next to forest, river next to river) to score points. Complete quests like "build a forest with 50 trees" to earn more tiles and keep playing longer. It's like the board game Carcassonne but as a peaceful, meditative single-player experience.
+
+![A sprawling landscape with trains, windmills and winding rivers](/assets/images/family-video-games/dorfromantik-2.webp)
+
+- **Genre:** Relaxing tile-placement puzzle - build pretty landscapes, no pressure
+- **Price:** £12.99 on Nintendo eShop (currently £9.74 on sale until Jan 11 - lowest ever!)
+- **For a 9yo:** Perfect - intuitive and satisfying. You can play casually to build pretty scenes or chase high scores. Sessions are 15-45 minutes. Creative mode has no way to lose.
+- **For a 5yo:** Good - PEGI 3 rated. Very simple controls (place and rotate tiles). Can enjoy building pretty countryside without worrying about scoring. May need help understanding quest objectives but can absolutely enjoy the core loop.
+- **Co-op:** Solo only
+
+**Good stuff:**
+- Genuinely calming - described as "sunshine on the screen"
+- Multiple modes: creative (no pressure), classic (score-chasing), monthly challenges
+- Perfect for short sessions or longer relaxation
+- Great value especially on sale
+
+**Watch out for:**
+- Very low-key - if you want action or excitement, look elsewhere
+- Can feel repetitive after many hours (but by then you've got your money's worth)
+
+---
+
+### GRIS
+
+![Gris meets a giant statue in a soft watercolour world](/assets/images/family-video-games/gris-1.jpg)
+
+You play as a girl named Gris exploring a beautiful watercolour world that's lost all its colour. As you journey through, you unlock new abilities - your dress can turn into a heavy block to smash through obstacles, let you glide through the air, or help you swim underwater. There's no text, no enemies trying to hurt you, and no way to die. It's more like playing through a moving painting than a traditional game.
+
+![Gliding through the red desert landscape](/assets/images/family-video-games/gris-2.jpg)
+
+- **Genre:** Artistic platformer - explore, solve gentle puzzles, and restore colour to the world
+- **Price:** £14.49 on Nintendo eShop (currently £2.49 on sale until Dec 31 - historic low!)
+- **For a 9yo:** Perfect - no reading needed at all, simple controls, and puzzles that are satisfying but never frustrating. The emotional story about dealing with sadness is told through visuals and music, so you can appreciate it at your own level.
+- **For a 5yo:** Good - no danger, no death, and simple platforming. The beautiful colours and magical transformations are captivating. Some puzzles might need a hint, but the whole game is designed to be welcoming.
+- **Co-op:** Solo only
+
+**Good stuff:**
+- One of the most beautiful games ever made - every frame looks like art
+- Short and sweet at 3-4 hours, perfect length for a meaningful experience
+- The soundtrack is gorgeous and responds to what you're doing
+
+**Watch out for:**
+- Very simple gameplay - if you want challenge or action, this isn't it
+- The emotional themes about grief might prompt questions (but they're handled gently)
+
+---
+
 ### Hollow Knight: Silksong
 
 ![Hornet leaping through the air in combat](/assets/images/family-video-games/hollow-knight-silksong-1.jpg)
@@ -197,6 +271,33 @@ Giant alien bugs called Vek are attacking cities, and you command a squad of thr
 **Watch out for:**
 - Requires strategic thinking even on Easy - might frustrate kids who don't like puzzles
 - Mild language in text ("a*s", "bastard") - PEGI 12
+
+---
+
+### The Legend of Zelda: Breath of the Wild
+
+![Link exploring Hyrule with an axe](/assets/images/family-video-games/zelda-botw-1.jpg)
+
+You wake up as Link after a 100-year sleep to find the kingdom of Hyrule in ruins. Now you must explore a vast open world, solve puzzles in ancient shrines, find weapons and armour, cook food for health, and eventually defeat Calamity Ganon. The magic is that you can go anywhere you can see - climb any mountain, glide off any cliff, explore in any order you want.
+
+![Peaceful exploration in Hyrule's meadows](/assets/images/family-video-games/zelda-botw-2.jpg)
+
+- **Genre:** Open-world action-adventure - explore, fight, solve puzzles, go anywhere
+- **Price:** £59.99 on Nintendo eShop (rarely discounts - physical copies around £28-45)
+- **For a 9yo:** Perfect - one of the greatest games ever made and ideal for this age. Combat is cartoonish with no blood, puzzles encourage creative thinking, and you can tackle challenges in any order. Some bosses are tough but you can always go do something else and come back stronger.
+- **For a 5yo:** With help - the open world is magical to explore, but combat, reading, and puzzle-solving need adult assistance. Could enjoy watching or playing together with a parent controlling the tricky bits.
+- **Co-op:** Solo only - but great for backseat gaming with siblings suggesting ideas
+
+**Good stuff:**
+- Metacritic 97/100 - genuinely one of the best games ever made
+- Complete freedom to explore - see a mountain? You can climb it. See a tower? Glide to it.
+- 100+ hours of content if you want it, but you can also just head straight to the final boss
+- Physics and chemistry systems mean creative solutions always work (set grass on fire to create updrafts, freeze water to make platforms, etc.)
+
+**Watch out for:**
+- Full price and rarely discounts - but worth every penny
+- Weapons break, which can frustrate some players (but you find new ones constantly)
+- So big it might take over your life!
 
 ---
 
@@ -253,6 +354,32 @@ Luigi wins a free stay at a luxury hotel - but surprise, it's haunted and run by
 
 ---
 
+### Old Man's Journey
+
+![The old man walking through rolling sun-drenched hills](/assets/images/family-video-games/old-mans-journey-1.jpg)
+
+An old man receives a letter and sets off on a journey across beautiful countryside. You help him travel by dragging hills up and down to create paths - line up two hillsides and he can walk from one to the other. As you go, wordless flashbacks show memories from his life. It's more like an interactive picture book than a puzzle game.
+
+![Walking through a colourful hillside village](/assets/images/family-video-games/old-mans-journey-2.jpg)
+
+- **Genre:** Puzzle adventure - drag landscapes to make paths, watch the story unfold
+- **Price:** £9.99 on Nintendo eShop (currently £1.99 on sale until Jan 12 - 80% off!)
+- **For a 9yo:** Perfect - very simple controls, no text to read, and the puzzles are gentle. The story about life, family, and memories might not hit as hard as it does for adults, but the beautiful art and relaxing gameplay still shine.
+- **For a 5yo:** Good - incredibly simple (just drag hills), no way to fail, no reading needed. The flashback scenes are pretty to watch even if the emotional meaning goes over their head.
+- **Co-op:** Solo only (technically supports 2 players but it's really a solo experience)
+
+**Good stuff:**
+- Absolutely gorgeous hand-painted art - every scene looks like a picture book
+- Very short (1-2 hours) so perfect for a quiet afternoon
+- No stress, no fail states, completely relaxing
+- Bargain at current sale price
+
+**Watch out for:**
+- Very little "game" here - if you want challenge or action, look elsewhere
+- Brief flashback images of drinking and smoking (not interactive, just story scenes)
+
+---
+
 ### Outer Wilds
 
 ![Exploring alien ruins on a planet with the sun in the background](/assets/images/family-video-games/outer-wilds-1.jpg)
@@ -277,6 +404,33 @@ You're a space explorer investigating a solar system trapped in a time loop - ev
 - Some areas are genuinely scary (anglerfish, dark zones) despite the PEGI 7 rating
 - The time loop pressure and lack of direction can frustrate players who prefer clear goals
 - Switch version has visual downgrades - play elsewhere if you can
+
+---
+
+### Splatoon 3
+
+![Colourful Turf War battle with ink everywhere](/assets/images/family-video-games/splatoon-3-1.jpg)
+
+Two teams of four splat ink everywhere using paint guns, rollers, and brushes - whoever covers more ground wins! You play as a squid kid who can transform into a squid to swim through your team's ink, refill your tank, and zoom around the map. There's also a full single-player campaign with puzzles and boss fights, plus Salmon Run where you team up against waves of weird salmon monsters.
+
+![Salmon Run co-op mode fighting salmon enemies](/assets/images/family-video-games/splatoon-3-2.jpg)
+
+- **Genre:** Team shooter - cover territory with ink, no blood or violence
+- **Price:** £49.99 on Nintendo eShop (rarely discounts - lowest ever was £39.99)
+- **For a 9yo:** Great - fast, colourful, and satisfying. The single-player Hero Mode teaches you the controls before going online. Online matches can get competitive but matchmaking keeps things fair. Reading is minimal (silly puns and short tutorials).
+- **For a 5yo:** Too tricky - needs quick reactions and dual-stick aiming that most 5-year-olds haven't developed yet. Could enjoy watching an older sibling play, but independent play isn't realistic.
+- **Co-op:** No split-screen! Each player needs their own Switch and copy of the game. Online multiplayer only (requires Nintendo Switch Online subscription).
+
+**Good stuff:**
+- The most polished "shooter" that's actually appropriate for kids - PEGI 7
+- Salmon Run co-op mode is brilliant chaotic fun
+- Looks stunning on Switch 2 (4K/60fps docked)
+- Loads of content including the Side Order roguelite DLC
+
+**Watch out for:**
+- Requires Nintendo Switch Online subscription for multiplayer (the main point)
+- No local co-op at all - frustrating for families with one Switch
+- Full price and rarely discounts
 
 ---
 
@@ -354,137 +508,6 @@ You're in charge of building and running museums! Send explorers on expeditions 
 **Watch out for:**
 - Switch 2 exclusive - won't work on original Switch
 - Performance can stutter as your museum grows larger
-
----
-
-### The Legend of Zelda: Breath of the Wild
-
-![Link exploring Hyrule with an axe](/assets/images/family-video-games/zelda-botw-1.jpg)
-
-You wake up as Link after a 100-year sleep to find the kingdom of Hyrule in ruins. Now you must explore a vast open world, solve puzzles in ancient shrines, find weapons and armour, cook food for health, and eventually defeat Calamity Ganon. The magic is that you can go anywhere you can see - climb any mountain, glide off any cliff, explore in any order you want.
-
-![Peaceful exploration in Hyrule's meadows](/assets/images/family-video-games/zelda-botw-2.jpg)
-
-- **Genre:** Open-world action-adventure - explore, fight, solve puzzles, go anywhere
-- **Price:** £59.99 on Nintendo eShop (rarely discounts - physical copies around £28-45)
-- **For a 9yo:** Perfect - one of the greatest games ever made and ideal for this age. Combat is cartoonish with no blood, puzzles encourage creative thinking, and you can tackle challenges in any order. Some bosses are tough but you can always go do something else and come back stronger.
-- **For a 5yo:** With help - the open world is magical to explore, but combat, reading, and puzzle-solving need adult assistance. Could enjoy watching or playing together with a parent controlling the tricky bits.
-- **Co-op:** Solo only - but great for backseat gaming with siblings suggesting ideas
-
-**Good stuff:**
-- Metacritic 97/100 - genuinely one of the best games ever made
-- Complete freedom to explore - see a mountain? You can climb it. See a tower? Glide to it.
-- 100+ hours of content if you want it, but you can also just head straight to the final boss
-- Physics and chemistry systems mean creative solutions always work (set grass on fire to create updrafts, freeze water to make platforms, etc.)
-
-**Watch out for:**
-- Full price and rarely discounts - but worth every penny
-- Weapons break, which can frustrate some players (but you find new ones constantly)
-- So big it might take over your life!
-
----
-
-### Splatoon 3
-
-![Colourful Turf War battle with ink everywhere](/assets/images/family-video-games/splatoon-3-1.jpg)
-
-Two teams of four splat ink everywhere using paint guns, rollers, and brushes - whoever covers more ground wins! You play as a squid kid who can transform into a squid to swim through your team's ink, refill your tank, and zoom around the map. There's also a full single-player campaign with puzzles and boss fights, plus Salmon Run where you team up against waves of weird salmon monsters.
-
-![Salmon Run co-op mode fighting salmon enemies](/assets/images/family-video-games/splatoon-3-2.jpg)
-
-- **Genre:** Team shooter - cover territory with ink, no blood or violence
-- **Price:** £49.99 on Nintendo eShop (rarely discounts - lowest ever was £39.99)
-- **For a 9yo:** Great - fast, colourful, and satisfying. The single-player Hero Mode teaches you the controls before going online. Online matches can get competitive but matchmaking keeps things fair. Reading is minimal (silly puns and short tutorials).
-- **For a 5yo:** Too tricky - needs quick reactions and dual-stick aiming that most 5-year-olds haven't developed yet. Could enjoy watching an older sibling play, but independent play isn't realistic.
-- **Co-op:** No split-screen! Each player needs their own Switch and copy of the game. Online multiplayer only (requires Nintendo Switch Online subscription).
-
-**Good stuff:**
-- The most polished "shooter" that's actually appropriate for kids - PEGI 7
-- Salmon Run co-op mode is brilliant chaotic fun
-- Looks stunning on Switch 2 (4K/60fps docked)
-- Loads of content including the Side Order roguelite DLC
-
-**Watch out for:**
-- Requires Nintendo Switch Online subscription for multiplayer (the main point)
-- No local co-op at all - frustrating for families with one Switch
-- Full price and rarely discounts
-
----
-
-### Dorfromantik
-
-![Peaceful village landscape made of hexagonal tiles](/assets/images/family-video-games/dorfromantik-1.webp)
-
-You draw hexagonal tiles from a stack and place them to build an ever-growing countryside of villages, forests, rivers, and fields. Match edges well (forest next to forest, river next to river) to score points. Complete quests like "build a forest with 50 trees" to earn more tiles and keep playing longer. It's like the board game Carcassonne but as a peaceful, meditative single-player experience.
-
-![A sprawling landscape with trains, windmills and winding rivers](/assets/images/family-video-games/dorfromantik-2.webp)
-
-- **Genre:** Relaxing tile-placement puzzle - build pretty landscapes, no pressure
-- **Price:** £12.99 on Nintendo eShop (currently £9.74 on sale until Jan 11 - lowest ever!)
-- **For a 9yo:** Perfect - intuitive and satisfying. You can play casually to build pretty scenes or chase high scores. Sessions are 15-45 minutes. Creative mode has no way to lose.
-- **For a 5yo:** Good - PEGI 3 rated. Very simple controls (place and rotate tiles). Can enjoy building pretty countryside without worrying about scoring. May need help understanding quest objectives but can absolutely enjoy the core loop.
-- **Co-op:** Solo only
-
-**Good stuff:**
-- Genuinely calming - described as "sunshine on the screen"
-- Multiple modes: creative (no pressure), classic (score-chasing), monthly challenges
-- Perfect for short sessions or longer relaxation
-- Great value especially on sale
-
-**Watch out for:**
-- Very low-key - if you want action or excitement, look elsewhere
-- Can feel repetitive after many hours (but by then you've got your money's worth)
-
----
-
-### GRIS
-
-![Gris meets a giant statue in a soft watercolour world](/assets/images/family-video-games/gris-1.jpg)
-
-You play as a girl named Gris exploring a beautiful watercolour world that's lost all its colour. As you journey through, you unlock new abilities - your dress can turn into a heavy block to smash through obstacles, let you glide through the air, or help you swim underwater. There's no text, no enemies trying to hurt you, and no way to die. It's more like playing through a moving painting than a traditional game.
-
-![Gliding through the red desert landscape](/assets/images/family-video-games/gris-2.jpg)
-
-- **Genre:** Artistic platformer - explore, solve gentle puzzles, and restore colour to the world
-- **Price:** £14.49 on Nintendo eShop (currently £2.49 on sale until Dec 31 - historic low!)
-- **For a 9yo:** Perfect - no reading needed at all, simple controls, and puzzles that are satisfying but never frustrating. The emotional story about dealing with sadness is told through visuals and music, so you can appreciate it at your own level.
-- **For a 5yo:** Good - no danger, no death, and simple platforming. The beautiful colours and magical transformations are captivating. Some puzzles might need a hint, but the whole game is designed to be welcoming.
-- **Co-op:** Solo only
-
-**Good stuff:**
-- One of the most beautiful games ever made - every frame looks like art
-- Short and sweet at 3-4 hours, perfect length for a meaningful experience
-- The soundtrack is gorgeous and responds to what you're doing
-
-**Watch out for:**
-- Very simple gameplay - if you want challenge or action, this isn't it
-- The emotional themes about grief might prompt questions (but they're handled gently)
-
----
-
-### Old Man's Journey
-
-![The old man walking through rolling sun-drenched hills](/assets/images/family-video-games/old-mans-journey-1.jpg)
-
-An old man receives a letter and sets off on a journey across beautiful countryside. You help him travel by dragging hills up and down to create paths - line up two hillsides and he can walk from one to the other. As you go, wordless flashbacks show memories from his life. It's more like an interactive picture book than a puzzle game.
-
-![Walking through a colourful hillside village](/assets/images/family-video-games/old-mans-journey-2.jpg)
-
-- **Genre:** Puzzle adventure - drag landscapes to make paths, watch the story unfold
-- **Price:** £9.99 on Nintendo eShop (currently £1.99 on sale until Jan 12 - 80% off!)
-- **For a 9yo:** Perfect - very simple controls, no text to read, and the puzzles are gentle. The story about life, family, and memories might not hit as hard as it does for adults, but the beautiful art and relaxing gameplay still shine.
-- **For a 5yo:** Good - incredibly simple (just drag hills), no way to fail, no reading needed. The flashback scenes are pretty to watch even if the emotional meaning goes over their head.
-- **Co-op:** Solo only (technically supports 2 players but it's really a solo experience)
-
-**Good stuff:**
-- Absolutely gorgeous hand-painted art - every scene looks like a picture book
-- Very short (1-2 hours) so perfect for a quiet afternoon
-- No stress, no fail states, completely relaxing
-- Bargain at current sale price
-
-**Watch out for:**
-- Very little "game" here - if you want challenge or action, look elsewhere
-- Brief flashback images of drinking and smoking (not interactive, just story scenes)
 
 ---
 
