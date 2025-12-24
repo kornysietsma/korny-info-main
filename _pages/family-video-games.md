@@ -29,6 +29,7 @@ A private overview of video games, mostly for the Nintendo Switch 2, for family 
 | [Splatoon 3](#splatoon-3) | Team shooter - cover territory with ink | £49.99 (rarely discounts) |
 | [Tetris Effect: Connected](#tetris-effect-connected) | Puzzle rhythm game - Tetris with music and visuals | £35.99 (**£17.99 on sale**) |
 | [Tunic](#tunic) | Action-adventure - Zelda-like with cryptic secrets | £25.19 (**£12.59 on sale**) |
+| [Portal: Companion Collection](#portal-companion-collection) | First-person puzzle - use portals to solve physics puzzles | £13.49 (**£3.37 on sale**) |
 | [Two Point Museum](#two-point-museum) | Management simulation - build and run museums | £24.99 (**£19.99 on sale**) |
 
 ## Games
@@ -508,6 +509,34 @@ You're in charge of building and running museums! Send explorers on expeditions 
 **Watch out for:**
 - Switch 2 exclusive - won't work on original Switch
 - Performance can stutter as your museum grows larger
+
+---
+
+### Portal: Companion Collection
+
+![Looking down at an orange portal on a test chamber floor](/assets/images/family-video-games/portal-companion-collection-1.jpg)
+
+You have a portal gun that shoots two linked doorways - go through one, come out the other. Use this to solve increasingly brain-bending physics puzzles while a sarcastic AI called GLaDOS insults you and promises cake. This collection includes both Portal games: the original (2-3 hours) and the much bigger sequel (8-10 hours) which adds new mechanics and a separate two-player co-op campaign.
+
+![Wheatley the robot personality core in a massive industrial shaft](/assets/images/family-video-games/portal-companion-collection-2.jpg)
+
+- **Genre:** First-person puzzle - think with portals to solve physics puzzles
+- **Price:** £13.49 on Nintendo eShop (currently £3.37 on sale until Dec 31 - 75% off, historic low!)
+- **For a 9yo:** Great - the puzzles start simple and teach you the mechanics brilliantly. Later chambers require serious spatial thinking and some fast reflexes, but there's no time pressure on most puzzles. The dark humour from GLaDOS is witty rather than scary. Some reading needed for tutorials.
+- **For a 5yo:** Not suitable - puzzles require understanding 3D space and cause-and-effect in ways that need older thinking. PEGI 12 rating. Lots of reading. Some sections need quick reactions. The first-person view might be disorienting.
+- **For the whole family:** Portal 2 has a completely separate co-op campaign designed for two players working together - genuine collaborative puzzle-solving that requires communication. One of the best co-op experiences ever made.
+- **Co-op:** Portal 1 is solo only. Portal 2 has full 2-player co-op campaign (local split-screen or online). Split-screen can be vertical or horizontal.
+
+**Good stuff:**
+- Two of the best puzzle games ever made - Portal 2 is Metacritic 95, called "perfect" by reviewers
+- Switch version runs at 60fps and looks better than the original release
+- Incredible value at the current sale price - less than a sandwich for two legendary games
+- GLaDOS and Wheatley are unforgettable characters with genuinely funny writing
+
+**Watch out for:**
+- First-person view might cause motion sickness for some players
+- Portal 2 has many loading screens between chambers (short, but frequent)
+- Dark humour and themes about testing on humans - funny for older kids but PEGI 12 for a reason
 
 ---
 
