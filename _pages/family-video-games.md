@@ -3,7 +3,7 @@ permalink: /family-video-games/
 title: Family Video Games
 sitemap: false
 robots: noindex,nofollow
-toc: true
+toc: false
 ---
 
 A private overview of video games, mostly for the Nintendo Switch 2, for family sharing.
@@ -15,21 +15,21 @@ A private overview of video games, mostly for the Nintendo Switch 2, for family 
 | [Animal Crossing: New Horizons](#animal-crossing-new-horizons) | Life simulation - relaxing, creative, no pressure | £49.99 (often £33 on sale) |
 | [Blanc](#blanc) | Co-op puzzle adventure - work together, no combat | £13.49 (**£6.74 on sale**) |
 | [Celeste](#celeste) | Precision platformer - jump, dash, climb, die, try again | £17.99 (**£4.49 on sale**) |
-| [Cocoon](#cocoon) | Puzzle adventure - explore worlds within worlds | £20.99 (**£10.49 on sale**) |
+| [Cocoon](#cocoon) | Puzzle adventure - explore worlds within worlds | £20.99 (often £10.49 on sale) |
 | [Donkey Kong Bananza](#donkey-kong-bananza) | 3D platformer - smash, dig, and explore | £58.99 |
 | [Dorfromantik](#dorfromantik) | Relaxing tile-placement puzzle - build landscapes | £12.99 (**£9.74 on sale**) |
-| [GRIS](#gris) | Artistic platformer - restore colour to the world | £14.49 (**£2.49 on sale**) |
-| [Hollow Knight: Silksong](#hollow-knight-silksong) | Metroidvania action-platformer - explore, fight, discover | £16.75 (**£13.40 on sale**) |
+| [GRIS](#gris) | Artistic platformer - restore colour to the world | £14.49 (often £2.49 on sale) |
 | [Into the Breach](#into-the-breach) | Turn-based tactics puzzle - like chess with giant robots | £11.39 (**£3.41 on sale**) |
 | [The Legend of Zelda: Breath of the Wild](#the-legend-of-zelda-breath-of-the-wild) | Open-world action-adventure - explore anywhere | £59.99 (rarely discounts) |
 | [Lil Gator Game](#lil-gator-game) | Cozy exploration adventure - climb, glide, play pretend | £16.75 (often £8-10 on sale) |
 | [Luigi's Mansion 3](#luigis-mansion-3) | Action-adventure ghost hunting - explore, puzzle, catch ghosts | £49.99 (rarely discounts) |
 | [Old Man's Journey](#old-mans-journey) | Puzzle adventure - drag landscapes, watch memories unfold | £9.99 (**£1.99 on sale**) |
-| [Outer Wilds](#outer-wilds) | Exploration mystery - fly, explore, solve cosmic mysteries | £20.99 (**£12.59 on sale**) |
-| [Splatoon 3](#splatoon-3) | Team shooter - cover territory with ink | £49.99 (rarely discounts) |
+| [Outer Wilds](#outer-wilds) | Exploration mystery - fly, explore, solve cosmic mysteries | £20.99 (often £12.59 on sale) |
+| [Splatoon 3](#splatoon-3) | Team shooter - cover territory with ink | £49.99 (**£37.49 on sale**) |
+| [Super Mario Odyssey](#super-mario-odyssey) | 3D platformer - explore kingdoms, capture enemies with your hat | £49.99 (often £33 on sale) |
 | [Tetris Effect: Connected](#tetris-effect-connected) | Puzzle rhythm game - Tetris with music and visuals | £35.99 (**£17.99 on sale**) |
 | [Tunic](#tunic) | Action-adventure - Zelda-like with cryptic secrets | £25.19 (**£12.59 on sale**) |
-| [Two Point Museum](#two-point-museum) | Management simulation - build and run museums | £24.99 (**£19.99 on sale**) |
+| [Two Point Museum](#two-point-museum) | Management simulation - build and run museums | £24.99 (often £19.99 on sale) |
 
 ## Games
 
@@ -70,7 +70,7 @@ A wolf cub and a fawn get lost in a snowstorm and have to work together to find 
 ![Working together to solve puzzles in the snowy landscape](/assets/images/family-video-games/blanc-2.jpg)
 
 - **Genre:** Co-op puzzle adventure - work together, no combat or stress
-- **Price:** £13.49 on Nintendo eShop (often £6.74 on sale - currently on sale!)
+- **Price:** £13.49 on Nintendo eShop (currently £6.74 on sale until Jan 15 - 50% off!)
 - **For a 9yo:** Great - simple two-button controls, no text to read, lovely story about helping each other
 - **For a 5yo:** Good with a partner - very simple controls but may get briefly confused about where to go. Best played with an older sibling or parent
 - **For the whole family:** Perfect for playing together on the sofa - designed for two players working as a team
@@ -125,7 +125,7 @@ You play as a tiny bug-like creature exploring strange alien worlds. The twist: 
 ![Exploring inside one of the world-orbs with mechanical structures](/assets/images/family-video-games/cocoon-2.jpg)
 
 - **Genre:** Puzzle adventure - explore, carry orbs, solve spatial puzzles
-- **Price:** £20.99 on Nintendo eShop (currently £10.49 on sale until Jan 2 - historic low!)
+- **Price:** £20.99 on Nintendo eShop (often £10.49 on sale)
 - **For a 9yo:** Good - the puzzles are genuinely clever and require thinking about "worlds within worlds". No reading needed at all (the whole game is wordless). Some puzzles will make you scratch your head, but the "aha!" moments feel amazing. Boss battles require timing but aren't punishing.
 - **For a 5yo:** Too complex - the simple controls (one stick, one button) seem accessible, but the nested world-within-world puzzles require abstract spatial thinking that's beyond most 5-year-olds. They might enjoy watching, but won't solve puzzles independently.
 - **Co-op:** Solo only
@@ -205,7 +205,7 @@ You play as a girl named Gris exploring a beautiful watercolour world that's los
 ![Gliding through the red desert landscape](/assets/images/family-video-games/gris-2.jpg)
 
 - **Genre:** Artistic platformer - explore, solve gentle puzzles, and restore colour to the world
-- **Price:** £14.49 on Nintendo eShop (currently £2.49 on sale until Dec 31 - historic low!)
+- **Price:** £14.49 on Nintendo eShop (often £2.49 on sale)
 - **For a 9yo:** Perfect - no reading needed at all, simple controls, and puzzles that are satisfying but never frustrating. The emotional story about dealing with sadness is told through visuals and music, so you can appreciate it at your own level.
 - **For a 5yo:** Good - no danger, no death, and simple platforming. The beautiful colours and magical transformations are captivating. Some puzzles might need a hint, but the whole game is designed to be welcoming.
 - **Co-op:** Solo only
@@ -221,32 +221,6 @@ You play as a girl named Gris exploring a beautiful watercolour world that's los
 
 ---
 
-### Hollow Knight: Silksong
-
-![Hornet leaping through the air in combat](/assets/images/family-video-games/hollow-knight-silksong-1.jpg)
-
-You play as Hornet, a fast and acrobatic warrior princess, exploring a vast underground kingdom filled with bugs. Dash, jump, and slash your way through beautiful but dangerous lands, discover secrets, and battle dozens of tough bosses. It's the sequel to Hollow Knight, but with even faster, more exciting movement.
-
-![Exploring the gilded city of Bellhart](/assets/images/family-video-games/hollow-knight-silksong-2.jpg)
-
-- **Genre:** Metroidvania action-platformer - explore, fight, unlock new abilities, find secrets
-- **Price:** £16.75 on Nintendo eShop (currently £13.40 on sale until 31 Dec - 20% off!)
-- **For a 9yo:** Good with caution - brilliant gameplay but notoriously difficult. There's no easy mode or assist options. Expect frustration with tough bosses and tricky platforming. A patient kid who enjoys mastering hard games could love it. Easily-frustrated players may bounce off.
-- **For a 5yo:** Not suitable - the difficulty is too high even for most adults. Needs precise timing, complex combat patterns, and real persistence through failure. No accessibility options to help.
-- **Co-op:** Solo only
-
-**Good stuff:**
-- Metacritic 91 - one of the highest-rated games of 2025, called "a masterpiece" by multiple reviewers
-- Movement feels incredible - Hornet is faster and more acrobatic than any other Metroidvania hero
-- Massive game with 200+ enemies and 40+ bosses - easily 30+ hours of content
-- Great value at current sale price
-
-**Watch out for:**
-- Really hard - deliberately designed to challenge, with no difficulty options
-- The original Hollow Knight is also excellent and cheaper if you want to try the series first
-- Frustration is part of the experience - you will die, a lot
-
----
 
 ### Into the Breach
 
@@ -389,7 +363,7 @@ You're a space explorer investigating a solar system trapped in a time loop - ev
 ![Inside the cosy wooden spacecraft at your home base](/assets/images/family-video-games/outer-wilds-2.jpg)
 
 - **Genre:** Exploration mystery - fly a spaceship, explore planets, solve mysteries with your brain
-- **Price:** £20.99 on Nintendo eShop (often £12.59 on sale - currently on sale until Jan 2!)
+- **Price:** £20.99 on Nintendo eShop (often £12.59 on sale)
 - **For a 9yo:** Maybe with help - PEGI 7 but genuinely challenging. Requires patience, note-taking, and lateral thinking. The time loop means "failing" repeatedly, which can frustrate. Some scary moments in dark areas. A curious 9-year-old who loves puzzles might enjoy this with an adult to discuss discoveries.
 - **For a 5yo:** Not suitable - needs reading for clues, complex 3D navigation, and patience with repeated deaths. Some genuinely frightening moments (giant anglerfish in the dark). The abstract story would be confusing.
 - **Co-op:** Solo only - but great for discussing discoveries together
@@ -416,7 +390,7 @@ Two teams of four splat ink everywhere using paint guns, rollers, and brushes - 
 ![Salmon Run co-op mode fighting salmon enemies](/assets/images/family-video-games/splatoon-3-2.jpg)
 
 - **Genre:** Team shooter - cover territory with ink, no blood or violence
-- **Price:** £49.99 on Nintendo eShop (rarely discounts - lowest ever was £39.99)
+- **Price:** £49.99 on Nintendo eShop (currently £37.49 on sale until Jan 11 - 25% off!)
 - **For a 9yo:** Great - fast, colourful, and satisfying. The single-player Hero Mode teaches you the controls before going online. Online matches can get competitive but matchmaking keeps things fair. Reading is minimal (silly puns and short tutorials).
 - **For a 5yo:** Too tricky - needs quick reactions and dual-stick aiming that most 5-year-olds haven't developed yet. Could enjoy watching an older sibling play, but independent play isn't realistic.
 - **Co-op:** No split-screen! Each player needs their own Switch and copy of the game. Online multiplayer only (requires Nintendo Switch Online subscription).
@@ -431,6 +405,34 @@ Two teams of four splat ink everywhere using paint guns, rollers, and brushes - 
 - Requires Nintendo Switch Online subscription for multiplayer (the main point)
 - No local co-op at all - frustrating for families with one Switch
 - Full price and rarely discounts
+
+---
+
+### Super Mario Odyssey
+
+![Mario captured as a glowing bird soaring through New Donk City](/assets/images/family-video-games/super-mario-odyssey-1.jpg)
+
+Mario's hat comes to life! Bowser has kidnapped Princess Peach (again), and this time Mario teams up with Cappy, a magical hat creature. Throw Cappy at enemies and objects to "capture" them - become a T-Rex, a Goomba, a tank, or even a stretchy caterpillar. You'll explore wildly different kingdoms from a bustling city full of realistic humans to a food-themed land made of giant vegetables.
+
+![Mario captured as a lava bubble creature in the colourful Luncheon Kingdom](/assets/images/family-video-games/super-mario-odyssey-2.jpg)
+
+- **Genre:** 3D platformer - explore kingdoms, throw your hat, capture enemies
+- **Price:** £49.99 on Nintendo eShop (often £33 on sale, physical copies from £25)
+- **For a 9yo:** Perfect - ideal difficulty with loads to discover. The main story is accessible but there are hundreds of hidden Power Moons for completionists. Assist Mode doubles your health and shows you where to go if you get stuck.
+- **For a 5yo:** With help - Assist Mode makes it much more forgiving, but younger kids will need help with trickier platforming sections and reading hints. The captures and colourful worlds are magical to explore together.
+- **For the whole family:** Great for couch co-op - Player 2 controls Cappy the hat, flying around to collect coins, hit enemies, and help with platforming. It's a perfect support role for younger siblings or parents who want to help without taking over.
+- **Co-op:** 2-player local co-op (Player 2 controls Cappy)
+
+**Good stuff:**
+- One of the highest-rated games ever made - Metacritic 97/100
+- The "capture" mechanic is endlessly creative - every enemy plays completely differently
+- Tons of content with 800+ Power Moons to find across 17 kingdoms
+- Assist Mode makes it accessible without dumbing it down
+
+**Watch out for:**
+- Full price and doesn't discount often - but worth every penny
+- Some later moons require very precise platforming
+- So much to collect it might overwhelm completionists!
 
 ---
 
@@ -495,7 +497,7 @@ You're in charge of building and running museums! Send explorers on expeditions 
 ![Dinosaur skeleton exhibit in a bustling museum](/assets/images/family-video-games/two-point-museum-2.jpg)
 
 - **Genre:** Management simulation - design, build, and run themed museums
-- **Price:** £24.99 on Nintendo eShop (currently £19.99 on sale until Dec 31 - lowest ever!)
+- **Price:** £24.99 on Nintendo eShop (often £19.99 on sale)
 - **For a 9yo:** Good for strategy fans - the tutorials are thorough and the learning curve is gentle. You'll need to read menus and objectives, and think strategically about layout and money. If you enjoyed Theme Park or similar games, this is perfect. PEGI 3 rating means the content is completely family-friendly.
 - **For a 5yo:** Too complex - it's a deep management sim with lots of reading, menus, and planning. Even though it's PEGI 3, the gameplay requires patience and strategic thinking beyond most 5-year-olds. Would need constant adult help.
 - **Co-op:** Solo only
@@ -511,4 +513,4 @@ You're in charge of building and running museums! Send explorers on expeditions 
 
 ---
 
-*Page last updated: December 2025*
+*Page last updated: January 2026*
