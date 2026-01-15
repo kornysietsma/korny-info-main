@@ -12,7 +12,7 @@ correspondance, and "Korny" the rest of the time.
 
 I grew up in Australia - first Geelong then Melbourne - but now I am permanently settled in the lovely town of Leighton Buzzard in the UK.
 
-I work as a principal engineer, troublemaker, and general wise-guy for [Liberis](https://www.liberis.com), a small-business finance company.
+I work as a principal engineer, troublemaker, and general wise-guy - previously for ThoughtWorks then Liberis - as I'm updating this page I'm about to start working for John Lewis Partnerships!
 
 ## This site
 

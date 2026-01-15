@@ -15,6 +15,7 @@ A private overview of video games, mostly for the Nintendo Switch 2, for family 
 | [Animal Crossing: New Horizons](#animal-crossing-new-horizons) | Life simulation - relaxing, creative, no pressure | £49.99 (often £33 on sale) |
 | [Blanc](#blanc) | Co-op puzzle adventure - work together, no combat | £13.49 (**£6.74 on sale**) |
 | [Celeste](#celeste) | Precision platformer - jump, dash, climb, die, try again | £17.99 (**£4.49 on sale**) |
+| [Clockwork Aquario](#clockwork-aquario) | Arcade platformer - stomp, grab, throw enemies in co-op | £8.99 (often £1.69 on sale) |
 | [Cocoon](#cocoon) | Puzzle adventure - explore worlds within worlds | £20.99 (often £10.49 on sale) |
 | [Donkey Kong Bananza](#donkey-kong-bananza) | 3D platformer - smash, dig, and explore | £58.99 |
 | [Dorfromantik](#dorfromantik) | Relaxing tile-placement puzzle - build landscapes | £12.99 (**£9.74 on sale**) |
@@ -113,6 +114,33 @@ Madeline decides to climb Celeste Mountain, but it turns out the mountain is ful
 - Genuinely difficult - you will die hundreds of times (the game counts your deaths!)
 - Story deals with depression and anxiety in meaningful ways - great for the right kid, but not for everyone
 - Can be frustrating if you don't enjoy trial-and-error gameplay
+
+---
+
+### Clockwork Aquario
+
+![Elle Moon bouncing through colorful clouds](/assets/images/family-video-games/clockwork-aquario-1.jpg)
+
+A lost arcade game from 1992 that was finally finished and released in 2021 - it holds the Guinness World Record for longest game development! Pick from three characters (a boy with goggles, a girl with pink hair, or a goofy robot) and stomp, slap, and throw enemies across five colourful stages. Stun an enemy by jumping on it, grab it, then chuck it at other baddies for bonus points.
+
+![Two-player co-op in a clockwork factory level](/assets/images/family-video-games/clockwork-aquario-2.jpg)
+
+- **Genre:** Arcade platformer - stomp, grab, and throw enemies
+- **Price:** £8.99 on Nintendo eShop (often as low as £1.69 on sale - brilliant value!)
+- **For a 9yo:** Perfect - two-button controls (jump and attack), bright cartoony visuals, and satisfying combos when you nail the pick-up-and-throw timing. Short enough to finish in one sitting.
+- **For a 5yo:** Good - very simple controls and appealing visuals. Easy mode gives 9 continues, so arcade difficulty won't stop them. May need help on boss fights but otherwise very accessible.
+- **For the whole family:** Great for quick co-op sessions - you can bounce on each other's heads, throw each other at enemies, and catch thrown enemies. Perfect for a 20-minute gaming session before dinner.
+- **Co-op:** 2-player local co-op. Fun balloon-popping minigame between levels. No online play.
+
+**Good stuff:**
+- Gorgeous 90s pixel art that still looks amazing today
+- Super short at 20-30 minutes - perfect length for young attention spans
+- Co-op is genuinely collaborative, not just two people playing separately
+- PEGI 3 rating - completely family-friendly
+
+**Watch out for:**
+- Very short - you'll see everything in half an hour (though you can replay with different characters)
+- Some critics found it too simple, but that makes it ideal for younger players
 
 ---
 
